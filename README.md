@@ -24,3 +24,5 @@ python mnist_example1.py --mode=visualize
 ```
 
 
+![Example image 5](https://raw.github.com/LarsDu/DeepTaylorLayers/master/img/ex5.png)
+![Example image 9](https://raw.github.com/LarsDu/DeepTaylorLayers/master/img/ex9.png)
